@@ -77,7 +77,7 @@
     "type": "git",
     "url": "https://github.com/creativecommons/vocabulary-styles.git"
   },
-  "main": "dist/js/vocabulary-styles.js",
+  "main": "dist/css/vocabulary-styles.css",
   "style": "dist/css/vocabulary-styles.css",
   "files": [
     "README.md",

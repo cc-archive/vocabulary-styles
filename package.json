@@ -83,6 +83,7 @@
   "files": [
     "CODE_OF_CONDUCT.md",
     "CONTRIBUTING.md",
-    "dist/"
+    "dist/css/",
+    "dist/js/"
   ]
 }

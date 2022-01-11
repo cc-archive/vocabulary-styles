@@ -1,5 +1,5 @@
 {
-  "name": "@creativecommons/vocabulary",
+  "name": "@creativecommons/vocabulary-styles",
   "version": "2020.11.3",
   "description": "A cohesive design system to unite the web facing Creative Commons",
   "author": "Creative Commons (https://creativecommons.org)",
@@ -51,7 +51,7 @@
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
   },
-  "bugs": "https://github.com/creativecommons/vocabulary/issues/",
+  "bugs": "https://github.com/creativecommons/vocabulary-styles/issues/",
   "funding": [
     {
       "type": "github",
@@ -75,8 +75,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/creativecommons/vocabulary.git",
-    "directory": "packages/vocabulary"
+    "url": "https://github.com/creativecommons/vocabulary-styles.git"
   },
   "main": "dist/js/vocabulary-styles.js",
   "style": "dist/css/vocabulary-styles.css",

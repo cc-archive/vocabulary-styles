@@ -80,6 +80,7 @@
   },
   "main": "dist/css/vocabulary-styles.css",
   "style": "dist/css/vocabulary-styles.css",
+  "unpkg": "dist/css/vocabulary-styles.css",
   "files": [
     "CODE_OF_CONDUCT.md",
     "CONTRIBUTING.md",

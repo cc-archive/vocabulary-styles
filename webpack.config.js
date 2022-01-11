@@ -6,8 +6,8 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'js/vocabulary.js',
-    library: 'vocabulary'
+    filename: 'js/vocabulary-styles.js',
+    library: 'vocabulary_styles'
   },
   module: {
     rules: [{
@@ -28,7 +28,7 @@ module.exports = {
   },
   plugins: [
     new MiniCssExtractPlugin({
-      filename: 'css/vocabulary.css'
+      filename: 'css/vocabulary-styles.css'
     }),
     new CopyPlugin({
       patterns: [

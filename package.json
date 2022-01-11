@@ -78,5 +78,8 @@
     "url": "https://github.com/creativecommons/vocabulary.git",
     "directory": "packages/vocabulary"
   },
-  "main": "index.js"
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.47.0"
+  }
 }

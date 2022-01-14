@@ -1,6 +1,6 @@
 {
-  "name": "@creativecommons/vocabulary",
-  "version": "2020.11.3",
+  "name": "@creativecommons/vocabulary-styles",
+  "version": "0.1.0",
   "description": "A cohesive design system to unite the web facing Creative Commons",
   "author": "Creative Commons (https://creativecommons.org)",
   "scripts": {
@@ -40,10 +40,10 @@
     "jest-image-snapshot": "^2.12.0",
     "jest-puppeteer": "^4.4.0",
     "mini-css-extract-plugin": "^0.10.0",
-    "node-sass": "^4.13.1",
     "puppeteer": "^2.1.1",
     "react": "^16.12.0",
     "react-is": "^16.12.0",
+    "sass": "^1.47.0",
     "sass-loader": "^10.0.2",
     "sass-true": "^5.0.0",
     "start-server-and-test": "^1.10.11",
@@ -52,7 +52,7 @@
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
   },
-  "bugs": "https://github.com/creativecommons/vocabulary/issues/",
+  "bugs": "https://github.com/creativecommons/vocabulary-styles/issues/",
   "funding": [
     {
       "type": "github",
@@ -76,8 +76,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/creativecommons/vocabulary.git",
-    "directory": "packages/vocabulary"
+    "url": "https://github.com/creativecommons/vocabulary-styles.git"
   },
-  "main": "index.js"
+  "main": "dist/css/vocabulary-styles.css",
+  "style": "dist/css/vocabulary-styles.css",
+  "unpkg": "dist/css/vocabulary-styles.css",
+  "files": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "dist/css/",
+    "dist/js/"
+  ]
 }

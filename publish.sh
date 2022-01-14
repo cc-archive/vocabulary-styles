@@ -11,9 +11,5 @@ trap '_es=${?};
     exit ${_es}' ERR
 
 npm run build
-cp package.json dist/
-cp README.md dist/
-cp LICENSE dist/
 
-cd dist
 npm publish --access public

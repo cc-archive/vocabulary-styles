@@ -85,6 +85,8 @@
     "CODE_OF_CONDUCT.md",
     "CONTRIBUTING.md",
     "dist/css/",
-    "dist/js/"
+    "dist/js/",
+    "dist/scss",
+    "dist/assets"
   ]
 }

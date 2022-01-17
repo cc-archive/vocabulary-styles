@@ -87,6 +87,6 @@
     "dist/css/",
     "dist/js/",
     "dist/scss",
-    "dist/assets"
+    "dist/assets/logos"
   ]
 }

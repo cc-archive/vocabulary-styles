@@ -1,6 +1,6 @@
 {
   "name": "@creativecommons/vocabulary-styles",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A cohesive design system to unite the web facing Creative Commons",
   "author": "Creative Commons (https://creativecommons.org)",
   "scripts": {
